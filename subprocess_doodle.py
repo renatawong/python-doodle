@@ -1,5 +1,11 @@
 # Copyright @ Renata Wong 2021
 
+# Python version: 6.5. Operationg system: Windows 10.
+
+# Instructions for executing this code: 
+# Place the file in a folder. 
+# Open the command prompt and switch to the folder containing this file. 
+# Type in the command prompt: Python subprocess-doodle.py
 
 import subprocess
 import numpy as np
